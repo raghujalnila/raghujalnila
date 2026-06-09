@@ -1,28 +1,25 @@
-## 👋 Hi there, I am **Raghu Jalneela**!
+## Hi there, I am **Raghu Jalneela**!
 
 ![](https://komarev.com/ghpvc/?username=raghujalnila&color=green)
 
-### 🚀About Me
-- 🎓 **BTech Data Science Student** |Currently in my 3rd year, diving deep into AI/ML, with hands-on experience in building intelligent systems.
-- 🧠 **Passionate about** solving real-world problems using data-driven approaches, from deep learning to predictive analytics.
-- 🔍 **Exploring** Cutting-Edge AI Innovations & Emerging Technologies.
+### About Me
+Aspiring AI/ML Engineer passionate about building intelligent systems, solving real-world problems with data, and transforming ideas into impactful AI-driven solutions.
 
 
-### 📫 Let's Connect!
+### Let's Connect!
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghujalnila)
 [![Medium](https://img.shields.io/badge/-Medium-000000?style=flat-square&logo=medium&logoColor=white)](https://medium.com/@jalnilaraghu)
 
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 ### **Programming & Scripting**
 <p> 
   <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" /> 
   <img alt="C" src="https://img.shields.io/badge/-C-00599C?style=flat-square&logo=c&logoColor=white" /> 
   <img alt="R" src="https://img.shields.io/badge/-R-276DC3?style=flat-square&logo=r&logoColor=white" /> 
-  <img alt="Java" src="https://img.shields.io/badge/-Java-007396?style=flat-square&logo=java&logoColor=white" /> 
 </p>
 
 ### **Data Science & ML**
@@ -54,14 +51,6 @@
 ## GitHub Contributions Summary
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=raghujalnila&theme=dark&ring=fb4362&file=fb4362&currStreakNum=fb4362&currStreakLabel=fb4362&hide_border=true)](https://git.io/streak-stats)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=raghujalnila&hide_border=true&show_icons=true&bg_color=151515&title_color=fb4362&icon_color=fb4362&text_bold=false&text_color=9e9e9e)
-
 ---
 
-## ☕ Support My Work
-If you think I deserve a little pick-me-up, why not treat me to a cup of coffee/tea? 🥺
-<a href="https://www.buymeacoffee.com/your_username" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-red.png" alt="Buy Me A Coffee" width="150" ></a>
-
----
-
-⭐️ **Raghu Jalneela** |  Always Learning, Always Building
+ **Raghu Jalneela** |  Always Learning, Always Building
